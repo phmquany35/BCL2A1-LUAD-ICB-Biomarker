@@ -1,0 +1,59 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "BCL2A1-Based Tri-Marker Signature for ICB Response in Lung Adenocarcinoma"
+abstract: "Computational framework for biomarker discovery integrating bulk and single-cell transcriptomics to identify BCL2A1 as a CD8+ T-cell survival marker associated with immunotherapy response in lung adenocarcinoma."
+authors:
+  - family-names: "Pham"
+    given-names: "Hoang Minh Quan"
+    email: "youremail@tmu.edu.tw"
+    affiliation: "Taipei Medical University"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "Feng"
+    given-names: "Po-Hao"
+    affiliation: "Taipei Medical University"
+  - family-names: "Chen"
+    given-names: "Chia-Ling"
+    affiliation: "Taipei Medical University"
+  - family-names: "Lee"
+    given-names: "Kang-Yun"
+    affiliation: "Taipei Medical University"
+  - family-names: "Lin"
+    given-names: "Chiou-Feng"
+    email: "cflin2014@tmu.edu.tw"
+    affiliation: "Taipei Medical University"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+version: 1.0.0
+doi: 10.5281/zenodo.XXXXXXX
+date-released: "2025-01-XX"
+url: "https://github.com/yourusername/BCL2A1-LUAD-ICB-Biomarker"
+repository-code: "https://github.com/yourusername/BCL2A1-LUAD-ICB-Biomarker"
+keywords:
+  - biomarker
+  - immunotherapy
+  - lung adenocarcinoma
+  - BCL2A1
+  - CD8 T cells
+  - immune checkpoint blockade
+  - computational biology
+  - bioinformatics
+  - single-cell RNA-seq
+  - transcriptomics
+license: MIT
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Pham"
+      given-names: "Hoang Minh Quan"
+    - family-names: "Feng"
+      given-names: "Po-Hao"
+    - family-names: "Chen"
+      given-names: "Chia-Ling"
+    - family-names: "Lee"
+      given-names: "Kang-Yun"
+    - family-names: "Lin"
+      given-names: "Chiou-Feng"
+  title: "Integrative Computational Analysis Identifies BCL2A1 as a CD8+ T-cell Survival Marker Associated with Immunotherapy Response in Lung Adenocarcinoma"
+  journal: "Computational and Structural Biotechnology Journal"
+  year: 2025
+  doi: "10.XXXX/XXXXX"

@@ -1,0 +1,90 @@
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+.Rapp.history
+*_cache/
+/cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files (too large for git)
+data/raw/*.gz
+data/raw/*.tar
+data/raw/*.zip
+data/raw/*.h5ad
+data/raw/*.rds
+data/raw/*.RData
+*.h5ad
+*.h5
+*.loom
+
+# Results (regenerated)
+results/models/*.rds
+results/models/*.pkl
+results/cache/
+*.rds
+*.RData
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.out
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-*
+
+# Documentation builds
+docs/_build/
+docs/_static/
+docs/_templates/
+
+# Keep placeholder files
+!.gitkeep
